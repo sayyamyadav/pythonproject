@@ -1,0 +1,75 @@
+TensorFlow:
+It's an open source library known as TensorFlow.It is used in almost every Google application for machine learning.
+This library was developed by Google in collaboration with Brain Team. 
+
+Features are:
+1. Responsive Construct-
+With TensorFlow, we can easily visualize each and every part of the graph which is not an option while using Numpy or SciKit.
+2. Easily Trainable
+It is easily trainable on CPU as well as GPU for distributed computing.
+3. Flexible
+One of the very important Tensorflow Features is that it is flexible in its operability, meaning it has modularity and the parts of it which you want to make standalone, it offers you that option.
+
+2 Scikit-learn:
+It is a Python library is associated with NumPy and SciPy. It is considered as one of the best libraries for working with complex data.
+One modification is the cross-validation feature, providing the ability to use more than one metric. Lots of training methods like logistics regression and nearest neighbors have received some little improvements.
+
+Features are:
+1. Cross-validation:
+ There are various methods to check the accuracy of supervised models on unseen data.
+2. Unsupervised learning algorithms: 
+Again there is a large spread of algorithms in the offering – starting from clustering, factor analysis, principal component analysis to unsupervised neural networks
+
+3.Keras:
+Keras is considered as one of the coolest machine learning libraries in Python. It provides an easier mechanism to express neural networks. Keras also provides some of the best utilities for compiling models, processing data-sets, visualization of graphs.
+
+Features are:
+1.It runs smoothly on both CPU and GPU.
+2.Keras is a completely Python-based framework, which makes it easy to debug and explore.
+
+4.LightGBM:
+Gradient Boosting is one of the best and most popular machine learning library, which helps developers in building new algorithms by using redefined elementary models and namely decision trees.
+
+Features are:
+1.Very fast computation ensures high production efficiency.
+2.Intuitive, hence makes it user friendly.
+3.Faster training than many other deep learning libraries.
+
+5.Eli5:
+It is a combination of visualization and debug all the machine learning models and track all working steps of an algorithm.
+
+Features are:
+Eli5 supports wother libraries XGBoost, lightning, scikit-learn, and sklearn-crfsuite libraries. 
+
+6.PyTorch:
+PyTorch is the largest machine learning library that allow developers to perform tensor computations wan ith acceleration of GPU, creates dynamic computational graphs, and calculate gradients automatically.
+
+Features are:
+1.Hybrid Front-End-
+A new hybrid front-end provides ease-of-use and flexibility in eager mode, while seamlessly transitioning to graph mode for speed, optimization, and functionality in C++ runtime environments.
+
+7. SciPy:
+SciPy is a machine learning library for application developers and engineers
+ SciPy library contains modules for optimization, linear algebra, integration, and statistics.
+
+Features:
+1.In addition, SciPy provides all the efficient numerical routines like optimization, numerical integration, and many others using its specific submodules.
+2.All the functions in all submodules of SciPy are well documented.
+
+8.Theano:
+Theano is a computational framework machine learning library in Python for computing multidimensional arrays. 
+Features:
+1.Tight integration with NumPy – Ability to use completely NumPy arrays in Theano-compiled functions.
+2.Transparent use of a GPU – Perform data-intensive computations much faster than on a CPU.
+
+9.Matplotlib:
+Matplotlib is the most basic data visualization package in Python. It provides support for a wide variety of graphs such as histograms, bar charts, power spectra, error charts.
+features:
+1.Matplotlib makes it extremely easy to plot graphs by providing functions to choose appropriate line styles, font styles, formatting axes and so on.
+2.Provides an object-oriented API module for integrating graphs into applications using GUI tools like Tkinter, wxPython, Qt, etc.
+3.It contains the Pyplot module that provides an interface very similar to the MATLAB user interface. This is one of the best features of the matplotlib package.
+10.Seaborn
+The Matplotlib library forms the base of the Seaborn library. In comparison to Matplotlib, Seaborn can be used to create more appealing and descriptive statistical graphs. Along with extensive supports for data visualization,
+Features:
+Provides options for analyzing and visualizing univariate and bivariate data points and for comparing the data with other subsets of data.
+Support for automated statistical estimation and graphical representation of linear regression models for various kinds of target variables.
